@@ -27,12 +27,9 @@
 - :computer: I’m interested in Python, creating GUI applications and these who are useful
 - :dart: I’m learning different Python modules to build bigger and bigger projects
 - :man_technologist: I am also a website designer and creator using Wordpress and Elementor, see https://mblaszczykowski.pl (for now site is only in my Polish language)
-- :trophy: I have designed and built more than 6 websites running my own web business
-
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-
+- :trophy: I have designed and built more than 7 websites running my own web business
 - :zap: My goal is to get familiar with TensorFlow and start creating own neural nets in near future because this topic fascinates me
-- :rocket: Always ready to collaborate and develop myself
+- :rocket: Always ready to collaborate and develop myself in web or programming projects
 
 
 <h2 align="left">Contact</h2>
