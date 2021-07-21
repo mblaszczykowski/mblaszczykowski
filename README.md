@@ -29,7 +29,7 @@
 - :man_technologist: I am also a website designer and creator using Wordpress and Elementor, see https://mblaszczykowski.pl (for now site is only in my Polish language)
 - :trophy: I have designed and built more than 7 websites
 - :zap: My goal is to get familiar with TensorFlow and start creating own neural nets in near future because this topic fascinates me
-- :rocket: Always ready to collaborate and develop myself in web or programming projects
+- :rocket: Always ready to collaborate on web or programming projects and develop my skills
 
 
 
