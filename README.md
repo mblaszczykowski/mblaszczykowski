@@ -22,7 +22,7 @@
 
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About me:</h2>
 
 - :computer: I’m interested in Python, creating GUI applications and these who are useful
 - :dart: I’m learning different Python modules to build bigger and bigger projects
@@ -32,10 +32,21 @@
 - :rocket: Always ready to collaborate and develop myself in web or programming projects
 
 
+
+
+<h2 align="left">👨🏻‍💻 Also interested in:</h2>
+
+- :trophy: Design
+- :computer: Economics
+- :dart: Crypto
+
+
+
+
 <h2 align="left">Contact</h2>
 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://oprojektowaniu.pl/wp-content/uploads/2017/02/official-linkedin-logo-tile.png" alt="sass" width="20" height="20"/>Linked</a>
-michvlbbb@gmail.com
+:envelope: michvlbbb@gmail.com
+
 
 
 
