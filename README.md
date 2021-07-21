@@ -36,7 +36,7 @@
 
 <h2 align="left">Contact</h2>
 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://oprojektowaniu.pl/wp-content/uploads/2017/02/official-linkedin-logo-tile.png" alt="sass" width="20" height="20"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://oprojektowaniu.pl/wp-content/uploads/2017/02/official-linkedin-logo-tile.png" alt="sass" width="20" height="20"/>Linked</a>
 michvlbbb@gmail.com
 
 
