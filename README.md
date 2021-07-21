@@ -3,7 +3,7 @@
   <br>Hello, I'm Michael <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 </h2> 
 <h3 align="left">
-  <br> Python programmer and web designer :computer:<br>
+  Python programmer and web designer :computer:<br>
 </h3>
 </abc>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/mblaszczykowski/mblaszczykowski/main/coding.gif" width="500" height="320" />
