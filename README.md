@@ -39,6 +39,7 @@
 - :trophy: Design
 - :computer: Economics
 - :dart: Crypto
+- Artifical Intelligence
 
 
 
