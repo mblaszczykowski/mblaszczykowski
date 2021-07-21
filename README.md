@@ -5,9 +5,8 @@
 <h3 align="left">
   <br> Python programmer and web designer :computer:<br>
 </h3>
- 
-    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/mblaszczykowski/mblaszczykowski/main/coding.gif" width="500" height="320" />
 </abc>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/mblaszczykowski/mblaszczykowski/main/coding.gif" width="500" height="320" />
 
 <h2 align="left">:hammer_and_wrench: Technologies and tools I use:</h2>
 <p align="left">
