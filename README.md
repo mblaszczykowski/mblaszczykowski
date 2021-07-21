@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning different Python modules to build bigger and bigger projects
 - 📫 You can reach me via my mail michvlbbb@gmail.com
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mblaszczykowski/mblaszczykowski/main/coding.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/mblaszczykowski/mblaszczykowski/main/coding.gif" width="500" height="320" />
 
 <!---
 mblaszczykowski/mblaszczykowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
