@@ -24,11 +24,11 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
+- :computer: I'm currently creating Python GUI apps with tkinter
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate and develop myself
 - :man_technologist: I am a website designer and creator using Wordpress and Elementor
-- :dart: I’m currently learning different Python modules to build bigger and bigger projects
+- :dart: I’m learning different Python modules to build bigger and bigger projects
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 - 👀 I’m interested in Python, creating GUI applications and these who are useful, I also design and create websites with Wordpress/Elementor, see https://mblaszczykowski.pl (for now site is only in my Polish language)
