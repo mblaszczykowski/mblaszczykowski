@@ -34,7 +34,7 @@
 
 
 
-<h2 align="left">👨🏻‍💻 Also interested in:</h2>
+<h2 align="left">:tada: Also interested in:</h2>
 
 - :black_nib: Design
 - :bar_chart: Economics
