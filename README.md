@@ -36,10 +36,10 @@
 
 <h2 align="left">👨🏻‍💻 Also interested in:</h2>
 
-- :trophy: Design
-- :computer: Economics
-- :dart: Crypto
-- Artifical Intelligence
+- :black_nib: Design
+- :bar_chart: Economics
+- :loop: Crypto
+- :robot: Artifical Intelligence
 
 
 
