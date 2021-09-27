@@ -11,7 +11,7 @@
 <h2 align="left">:hammer_and_wrench: Technologies and tools I use:</h2>
 <p align="left">
   
-<a href="https://www.python.org/" target="_blank"> <img src="https://lizhe.com.au/uploads/2021/02/1200px-Python.svg_.png" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
 <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"> <img src="https://iot4beginners.com/wp-content/uploads/2020/04/DxD1hLgUwAAo-Od.jpg" alt="Python-tkinter" width="40" height="40"/> </a>
 <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://www.sublimehq.com/images/sublime_text.png" alt="Sublime Text 3" width="40" height="40"/> </a>
 <a href="https://wordpress.org/" target="_blank"> <img src="https://wpuniverse.pl/wp-content/uploads/2015/09/wordpress-logo.png" alt="Wordpress" width="40" height="40"/> </a>
