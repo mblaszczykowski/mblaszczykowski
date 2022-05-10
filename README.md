@@ -38,7 +38,6 @@
 
 - :black_nib: Design
 - :bar_chart: Economics
-- :loop: Crypto
 - :robot: Artifical Intelligence
 
 
@@ -46,7 +45,7 @@
 
 <h2 align="left">:mailbox: Contact</h2>
 
-:envelope: michvlbbb@gmail.com
+:envelope: kontakt.mblaszczykowski@gmail.com
 
 
 
