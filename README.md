@@ -26,7 +26,7 @@
 
 - :computer: I’m interested in making useful mobile and PC apps, websites and Python programming
 - :dart: I’m learning different Python modules to build bigger and bigger projects
-- :man_technologist: I am also a website designer and creator using Wordpress and Elementor, see https://mblaszczykowski.pl (for now site is only in my Polish language)
+- :man_technologist: I am also a website designer using Wordpress and Elementor, see https://mblaszczykowski.com (for now site is only in my Polish language)
 - :zap: I'm also focusing now on learning to create iOS and MacOS apps with SwiftUI
 - :rocket: Always ready to collaborate on web or programming projects and develop my skills
 
