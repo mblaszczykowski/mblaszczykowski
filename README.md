@@ -7,15 +7,15 @@
 </h4>
 </abc>
 
-<h2 align="left">About me:</h2>
+<h2 align="left">About me</h2>
 
 - I’m interested in making useful apps and websites :computer:
 - Currently learning different Python modules to build bigger and bigger projects :dart:
 - Also starting my journey with machine learning and neural networks :zap:
-- I'm also a website designer creating websites using Wordpress and Elementor, my portfolio: https://mblaszczykowski.com (for now only in Polish language) 👨🏻‍💻
+- I'm also a web designer creating websites using Wordpress and Elementor, my portfolio: https://mblaszczykowski.com (for now only in Polish language) 👨🏻‍💻
 - Always ready to collaborate on any programming projects :rocket:
 
-<h2 align="left">Also interested in:</h2>
+<h2 align="left">My other interests</h2>
 
 - Design :black_nib:
 - Economics :bar_chart:
