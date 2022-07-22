@@ -7,42 +7,20 @@
 </h4>
 </abc>
 
-
 <h2 align="left">👨🏻‍💻 About me:</h2>
-
 - :computer: I’m interested in making useful mobile and PC apps, websites and Python programming
 - :dart: I’m learning different Python modules to build bigger and bigger projects
 - :man_technologist: I am also a website designer using Wordpress and Elementor, see https://mblaszczykowski.com (for now site is only in my Polish language)
 - :zap: I'm also focusing now on learning to create iOS and MacOS apps with SwiftUI
 - :rocket: Always ready to collaborate on web or programming projects and develop my skills
 
-
-
-
 <h2 align="left">:tada: Also interested in:</h2>
-
 - :black_nib: Design
 - :bar_chart: Economics
 - :robot: Artifical Intelligence
 
-
-
-
 <h2 align="left">:mailbox: Contact</h2>
-
 :envelope: kontakt.mblaszczykowski@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!---
 mblaszczykowski/mblaszczykowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
