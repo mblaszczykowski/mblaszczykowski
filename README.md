@@ -21,9 +21,9 @@
 - Economics :bar_chart:
 - Artifical Intelligence :robot:
 
-<h2 align="left">Contact</h2>
+<h2 align="left">Contact :envelope: </h2>
 
-kontakt.mblaszczykowski@gmail.com :envelope: 
+Feel free to contact me: kontakt.mblaszczykowski@gmail.com 
 
 <!---
 mblaszczykowski/mblaszczykowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
