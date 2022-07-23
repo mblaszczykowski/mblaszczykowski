@@ -12,7 +12,7 @@
 - I’m interested in making useful apps and websites :computer:
 - Currently learning different Python modules to build bigger and bigger projects :dart:
 - Also starting my journey with machine learning and neural networks :zap:
-- I'm also a web designer creating websites using Wordpress and Elementor, my portfolio: https://mblaszczykowski.com (for now only in Polish language) 📱
+- I'm also a web designer creating websites using Wordpress and Elementor, my portfolio: https://mblaszczykowski.com (for now only in Polish language, you can use Google Translate extension to translate whole website) 📱
 - Always ready to collaborate on any programming projects :rocket:
 
 <h2 align="left">My other interests</h2>
