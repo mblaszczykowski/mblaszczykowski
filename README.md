@@ -10,10 +10,9 @@
 <h2 align="left">About me</h2>
 
 - I’m interested in making useful apps and websites :computer:
-- Currently starting my journey with Machine Learning and Neural Networks :zap:
-- Learning different Python modules to build bigger and bigger projects :dart:
-- I'm also a web designer creating websites using Wordpress and Elementor, my portfolio: https://mblaszczykowski.com (for now only in Polish language, you can use Google Translate extension to translate whole website) 📱
-- Always ready to collaborate on any programming projects :rocket:
+- Currently starting my journey with Machine Learning and Neural Networks :dart:
+- Learning different Python modules to build bigger and bigger projects :rocket:
+- I'm a web designer creating websites using Wordpress and Elementor, my portfolio: https://mblaszczykowski.com (for now only in Polish language, you can use Google Translate extension to translate whole website) 📱
 
 <h2 align="left">My other interests</h2>
 
