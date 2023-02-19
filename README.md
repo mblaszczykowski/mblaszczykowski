@@ -14,12 +14,6 @@
 - Learning different Python modules to build bigger and bigger projects :rocket:
 - I'm a web designer creating websites using Wordpress and Elementor, my website: https://mblaszczykowski.com 📱
 
-<h2 align="left">My other interests</h2>
-
-- Design :black_nib:
-- Economics :bar_chart:
-- Artifical Intelligence :robot:
-
 <h2 align="left">Feel free to contact me</h2>
 
 :envelope: kontakt.mblaszczykowski@gmail.com
