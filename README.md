@@ -7,7 +7,7 @@
 </h4>
 </abc>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mblaszczykowski&border_radius=30&hide_border=true&bg_color=#282828](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mblaszczykowski&border_radius=30&hide_border=true&bg_color=282828](https://github.com/anuraghazra/github-readme-stats)
 
 :envelope: kontakt.mblaszczykowski@gmail.com
 
