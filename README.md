@@ -7,11 +7,6 @@
 </h4>
 </abc>
 
-<h2 align="left">Feel free to contact me:</h2>
-
+<h5 align="left">Feel free to contact me:</h5>
 :envelope: kontakt.mblaszczykowski@gmail.com
 
-<!---
-mblaszczykowski/mblaszczykowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
