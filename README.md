@@ -7,7 +7,7 @@
 </h4>
 </abc>
 
-<h2 align="left">Feel free to contact me</h2>
+<h2 align="left">Feel free to contact me:</h2>
 
 :envelope: kontakt.mblaszczykowski@gmail.com
 
