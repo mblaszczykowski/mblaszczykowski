@@ -7,6 +7,5 @@
 </h4>
 </abc>
 
-Feel free to contact me:
 :envelope: kontakt.mblaszczykowski@gmail.com
 
