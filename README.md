@@ -3,7 +3,7 @@
   <br>Hello, I'm Michael <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 </h2> 
 <h3 align="left">
-  I am a Computer Science student, programmer and web designer constantly learning new skills and technologies :computer:<br>
+  I am a Junior Software Developer and Computer Science student constantly learning new skills and technologies :computer:<br>
 </h3>
   📍 Military University of Technology in Warsaw
  <br><br>
