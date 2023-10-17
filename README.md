@@ -5,8 +5,7 @@
 <h3 align="left">
   I am a Junior Software Developer and Computer Science student constantly learning new skills and technologies :computer:<br>
 </h3>
-  📍 Military University of Technology in Warsaw
- <br><br>
+
 </abc>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mblaszczykowski&border_radius=30&hide_border=true&bg_color=282828&text_color=ffffff&title_color=ffffff&custom_title=Programming%20languages)](https://github.com/anuraghazra/github-readme-stats)
